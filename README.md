@@ -211,6 +211,4 @@ The forecast enables store-level inventory planning, confirming that historical 
     Navigate to the `notebooks/` directory and run `eda.ipynb` followed by `modelling.ipynb`.
 
 ## Dataset
-The dataset used in this project was sourced from the "Demand Forecasting Kernels Only" competition on Kaggle.
-
-[Link to Dataset](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/overview)
+The [Link to Dataset](https://www.kaggle.com/competitions/demand-forecasting-kernels-only/overview) was sourced from the "Demand Forecasting Kernels Only" competition on Kaggle.
