@@ -53,16 +53,14 @@ The project is organized as a Python package, ensuring modularity and reproducib
 
 ## Methodology: The CRISP-DM Framework
 
-This project follows the Cross-Industry Standard Process for Data Mining (CRISP-DM) to ensure a structured and iterative approach.
+We follow the Cross-Industry Standard Process for Data Mining (CRISP-DM) to ensure a structured and iterative approach.
 
 1.  **Business Understanding:** Defined project objectives and success criteria.
 2.  **Data Understanding:** Initial data exploration and quality assessment.
 3.  **Data Preparation:** Feature engineering, transformations, and splitting.
 4.  **Modeling:** Model selection, training, and hyperparameter tuning.
 5.  **Evaluation:** Assessed model performance against business objectives.
-6.  **Deployment:** (Simulated) Packaged the project for reproducibility and presented final forecasts.
-
-*Detailed steps for each phase are documented within the Jupyter notebooks.*
+6.  **Deployment:** Out of scope 
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*JYbymHifAk7aQ1pHm_IdMQ.png" width="500" alt="CRISP-DM Framework">
