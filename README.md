@@ -65,7 +65,7 @@ This project follows the Cross-Industry Standard Process for Data Mining (CRISP-
 *Detailed steps for each phase are documented within the Jupyter notebooks.*
 
 <p align="center">
-  <img src="path/to/your/crisp-dm-image.png" width="500" alt="CRISP-DM Framework">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*JYbymHifAk7aQ1pHm_IdMQ.png" width="500" alt="CRISP-DM Framework">
 </p>
 
 ## Exploratory Data Analysis (EDA) & Key Insights
