@@ -1,0 +1,11 @@
+scipy<=1.15.3
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+statsmodels
+lightgbm
+optuna
+shap
+

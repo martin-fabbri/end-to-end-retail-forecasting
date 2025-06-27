@@ -189,7 +189,7 @@ The forecast enables store-level inventory planning, confirming that historical 
 2.  **Create and activate a virtual environment:**
     ```bash
     # For Unix/macOS
-    python3 -m venv venv
+    python -m venv venv
     source venv/bin/activate
 
     # For Windows
@@ -199,6 +199,7 @@ The forecast enables store-level inventory planning, confirming that historical 
 
 3.  **Install the required dependencies:**
     ```bash
+    pip install --upgrade pip
     pip install -r requirements.txt
     ```
 
