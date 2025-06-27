@@ -31,9 +31,7 @@ The primary objectives of this project are:
 *   **Statistical Modeling:** Statsmodels (for time series decomposition)
 *   **Machine Learning:** Scikit-Learn, LightGBM
 *   **Hyperparameter Tuning:** Optuna
-*   **Development Environment:** Jupyter Notebook, Visual Studio Code, Anaconda
-*   **Version Control:** Git, GitHub
-
+  
 ## Project Structure
 
 The project is organized as a Python package, ensuring modularity and reproducibility.
