@@ -182,8 +182,8 @@ The forecast enables store-level inventory planning, confirming that historical 
 ### Installation & Usage
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/allmeidaapedro/Store-Item-Demand-Forecasting.git
-    cd Store-Item-Demand-Forecasting
+    git clone https://github.com/martin-fabbri/end-to-end-retail-forecasting.git
+    cd end-to-end-retail-forecasting
     ```
 
 2.  **Create and activate a virtual environment:**
